@@ -68,9 +68,16 @@ chaining, we also proved a bound of order
 $O( \log(n/k) \sqrt{k \log(k)/n} )$.
 
 
+## Bibtex
 
-
-
+```BibTeX
+@phdthesis{Appert2020,
+  title={Information k-means, fragmentation and syntax analysis: A new approach to unsupervised Machine Learning},
+  author={Gautier Appert},
+  school={ENSAE Paris Tech},
+  year={2020}
+}
+```
 
 
 
