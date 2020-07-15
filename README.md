@@ -68,7 +68,7 @@ chaining, we also proved a bound of order
 $O( \log(n/k) \sqrt{k \log(k)/n} )$.
 
 
-## Bibtex
+## BibTex
 
 ```BibTeX
 @phdthesis{Appert2020,
