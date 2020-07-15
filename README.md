@@ -1,6 +1,6 @@
 # PhD thesis - Information k-means, fragmentation and syntax analysis: A new approach to unsupervised Machine Learning
 
-PhD undertook at ENSAE and under the supervision of  Olivier Catoni.
+PhD undertook at ENSAE and under the supervision of CNRS Research Director Olivier Catoni.
 
 ## Abstract
 
