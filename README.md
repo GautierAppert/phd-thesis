@@ -1,7 +1,7 @@
 # PhD thesis - Information k-means, fragmentation and syntax analysis:
 # A new approach to unsupervised Machine Learning
 
-PhD undertook at ENSAE and supervised by Olivier Catoni.
+PhD undertook at ENSAE and under the supervision of  Olivier Catoni.
 
 ## Abstract
 
@@ -61,12 +61,12 @@ criteria we introduced.
 * For instance, in the special case of the classical $k$-means 
 criterion, 
 we get a non asymptotic dimension free generalization bound of order
-$\mathcal{O} ( k \log(k) / n )^{1/4}$
+$O( k \log(k) / n )^{1/4}$
 that gives the best sufficient consistency 
 condition, namely that the excess risk goes to 
 zero when $k \log(k) / n$ goes to zero. Using a new kind of PAC-Bayesian
 chaining, we also proved a bound of order 
-$\mathcal{O} ( \log(n/k) \sqrt{k \log(k)/n} )$.
+$O( \log(n/k) \sqrt{k \log(k)/n} )$.
 
 
 
